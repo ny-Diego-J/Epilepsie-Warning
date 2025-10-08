@@ -32,7 +32,7 @@ body {
   height: calc(100vh + 400px);
   overflow: visible;
   inset: 0;
-  background: scroll url("/Website + python code/img/Tux.png") repeat;
+  background: scroll url("/img/Tux.png") repeat;
   animation: bodysize 1s infinite alternate;
 }
 
@@ -44,7 +44,7 @@ body {
   height: calc(100vh + 400px);
   overflow: visible;
   inset: 0;
-  background: scroll url("/Website + python code/img/Tux.png") repeat;
+  background: scroll url("/img/Tux.png") repeat;
   animation: bodysize2 1s infinite alternate;
 }
 
@@ -57,7 +57,7 @@ body {
   overflow: visible;
 
   inset: 0;
-  background: scroll url("/Website + python code/img/Tux.png") repeat;
+  background: scroll url("/img/Tux.png") repeat;
   animation: crazy 5s infinite;
 }
 
