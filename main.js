@@ -1,11 +1,4 @@
-function download() {
-  let random = Math.floor(Math.random() * 10);
-  if (random < 5) {
-    window.location.href = "no guy gets your unterstanding.exe";
-  } else {
-    window.location.href = "no guy gets your unterstanding1.exe";
-  }
-}
+function download() {}
 
 function hover() {
   let download = document.querySelector("img");
@@ -40,8 +33,4 @@ function hover() {
   download.style.top = randy + "px";
   download.style.cursor = "pointer";
   download.style.transitionDuration = "0.5s";
-}
-
-function download2() {
-  window.location.href = "CalcflexSetup.exe";
 }
